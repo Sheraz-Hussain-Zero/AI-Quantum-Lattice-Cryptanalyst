@@ -1,24 +1,15 @@
-This is free and unencumbered software released into the public domain.
+CUSTOM ACADEMIC LICENSE
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026 sheraz hussain IPS pakistan
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+This framework, including all quantum pulse manipulation simulations, linear algebraic matrices, 
+and LaTeX documentation, is structured strictly for academic evaluation, peer review, and 
+post-quantum network defense analysis. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+CONDITIONS:
+1. Commercial deployment, redistribution, or modification of this code for profit-making 
+   ventures is strictly prohibited without the express written consent of the copyright holder.
+2. Any citation, academic derivative work, or presentation based on this research matrix must 
+   prominently attribute the original credit to this repository link.
+3. The software is provided "as-is" for theoretical verification, and the author holds no 
+   liability for structural network upgrades triggered by this cryptanalysis.
